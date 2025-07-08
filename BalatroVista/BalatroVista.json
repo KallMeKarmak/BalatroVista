@@ -1,0 +1,19 @@
+{
+	"id": "BalatroVista",
+	"name": "BalatroVista",
+	"display_name": "BalatroVista",
+	"author": ["KallMeKarmak,Satiire"],
+	"description": "WindowsVista in Balatro real.",
+	"prefix": "bv",
+	"main_file": "BalatroVista.lua",
+	"priority":  69,
+	"badge_colour": "708b91",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.5.5a~dev2",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0314c)"
+	],
+	"conflicts": [
+		"Saturn"
+	]
+}
