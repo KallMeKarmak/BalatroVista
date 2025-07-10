@@ -16,6 +16,9 @@ Enjoy! :33
 
 ADDITIONAL CREDITS
 Balatro95 - Used as Inspiration(please download their mod!!!)
+
 Nano - Helped coding things like the custom background!
+
 Ali (TOGA) - Helped me with the player cards!
+
 Everyone who supported me <333 - Love you guys!
