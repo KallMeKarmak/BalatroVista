@@ -16,7 +16,7 @@ Enjoy! :33
 
 ADDITIONAL CREDITS
 
-Balatro95 - Used as Inspiration(please download their mod!!!)
+Balatro95 - Used some of their assets and used as Inspiration (please download their mod!!!)
 
 Nano - Helped coding things like the custom background!
 
